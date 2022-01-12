@@ -7,7 +7,6 @@ import java.util.TreeSet;
 
 public class WorldsTreeSetDemo {
     public static void main(String[] args) throws FileNotFoundException {
-        // Klasa HashSet implementuje interfejs Set
         Set<String> words = new TreeSet<>();
         long totalTime = 0;
 
