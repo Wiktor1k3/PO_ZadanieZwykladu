@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
 
-public class WordsInHashSetDemo
+public class WordsInTreeSetDemo
 {
     public static void main(String[] args) throws FileNotFoundException {
         Set<String> words = new HashSet<>();
