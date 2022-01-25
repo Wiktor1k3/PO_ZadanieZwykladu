@@ -1,5 +1,3 @@
-# PO_ZadanieZwykladu
-
 TreeSet:
 5908 unikalnych słów. 25 milisekund.
 5908 unikalnych słów. 31 milisekund.
